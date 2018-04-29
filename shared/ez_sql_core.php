@@ -83,7 +83,7 @@
      * Function called
      * @public string
      */
-    private $func_call;
+    protected $func_call;
 
 		// == TJH == default now needed for echo of debug function
 		public $debug_echo_is_on = true;
